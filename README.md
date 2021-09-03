@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raevenruiz
-- 👀 I’m interested in a career with Data Analysis
-- 🌱 I’m currently learning data visualization and hypothesis testing with Python
+- 👀 I’m interested in a career with Data Analysis and/or Business Intelligence
+- 🌱 I’m currently learning data visualization and hypothesis testing with Python, along with database development through SQL
 
 - 📫 How to reach me: raeven.ruiz98@gmail.com
 
